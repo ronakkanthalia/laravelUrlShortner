@@ -1,3 +1,14 @@
+## About project
+This is small project in laravel for creating url shortner
+
+Follow steps to setup:
+1. clone in your local
+2. run composer update
+3. create db
+4. change the db name in config/database.php 
+5. run php artisan migrate
+6. just run on browser. Enjoy !
+  
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
